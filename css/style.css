@@ -38,6 +38,11 @@ p {
   }
 }
 
+/* Card変更 */
+.card {
+  border-radius: 0;
+}
+
 
 .submit-color {
   background-color: #DE660D;
