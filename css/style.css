@@ -1,5 +1,6 @@
 body {
   background-color: #343a40;
+  color: pink;
 }
 
 a {
@@ -29,7 +30,7 @@ p {
   color: #343a40;
 }
 
-@media screen and (min-width:576px) {
+@media screen and (min-width: 576px) {
   .row {
     margin-bottom: 30px;
     display: flex;
@@ -43,7 +44,6 @@ p {
   border-radius: 0;
 }
 
-
 .submit-color {
   background-color: #17a2b8;
   color: white;
@@ -53,7 +53,7 @@ p {
 }
 
 .submit-color:hover {
-  opacity: 1.0;
+  opacity: 1;
 }
 
 .submit-center {
@@ -75,7 +75,7 @@ footer {
   position: fixed;
   right: 20px;
   bottom: 20px;
-  background-color: #FFA500;
+  background-color: #ffa500;
 }
 
 #page-top a {
